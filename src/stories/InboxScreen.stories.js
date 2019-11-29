@@ -4,7 +4,7 @@ import { storiesOf } from '@storybook/react';
 import { action } from '@storybook/addon-actions';
 import { Provider } from 'react-redux';
 
-import { PureInboxScreen } from './InboxScreen';
+import { PureInboxScreen } from '../components/InboxScreen';
 import { defaultTasks } from './TaskList.stories';
 
 // A super-simple mock of a redux store

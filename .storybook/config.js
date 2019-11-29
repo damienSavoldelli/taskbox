@@ -3,7 +3,7 @@ import '../src/index.css';
 import requireContext from 'require-context.macro';
 import 'storybook-chromatic';
 
-const req = requireContext('../src/components', true, /\.stories\.js$/);
+const req = requireContext('../src/stories', true, /\.stories\.js$/);
 
 function loadStories() {
   req.keys().forEach(filename => req(filename));
