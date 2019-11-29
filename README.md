@@ -2,13 +2,14 @@
 
 Tutorial about get start with storybook : https://www.learnstorybook.com/intro-to-storybook
 
-- storybook environment : https://github.com/storybookjs/storybook
+Storybook environment : https://github.com/storybookjs/storybook
 
 ### Articles : 
 - https://medium.com/storybookjs
 - https://medium.com/ingenious/storybook-meets-redux-6ab09a5be346
 - https://medium.com/@resol/redux-reactstorybook-d3cfebf2272a
 - https://blog.cloudboost.io/reactjs-unit-testing-with-storybook-jest-2c3ac5ff37ba
+- https://blog.eleven-labs.com/fr/Storybook-creer-son-premier-composant/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
