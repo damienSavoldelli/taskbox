@@ -37,11 +37,6 @@ exports[`Storyshots InboxScreen default 1`] = `
       </label>
       <div
         className="title"
-        style={
-          Object {
-            "background": "red",
-          }
-        }
       >
         <input
           placeholder="Input title"
@@ -82,11 +77,6 @@ exports[`Storyshots InboxScreen default 1`] = `
       </label>
       <div
         className="title"
-        style={
-          Object {
-            "background": "red",
-          }
-        }
       >
         <input
           placeholder="Input title"
@@ -127,11 +117,6 @@ exports[`Storyshots InboxScreen default 1`] = `
       </label>
       <div
         className="title"
-        style={
-          Object {
-            "background": "red",
-          }
-        }
       >
         <input
           placeholder="Input title"
@@ -172,11 +157,6 @@ exports[`Storyshots InboxScreen default 1`] = `
       </label>
       <div
         className="title"
-        style={
-          Object {
-            "background": "red",
-          }
-        }
       >
         <input
           placeholder="Input title"
@@ -217,11 +197,6 @@ exports[`Storyshots InboxScreen default 1`] = `
       </label>
       <div
         className="title"
-        style={
-          Object {
-            "background": "red",
-          }
-        }
       >
         <input
           placeholder="Input title"
@@ -262,11 +237,6 @@ exports[`Storyshots InboxScreen default 1`] = `
       </label>
       <div
         className="title"
-        style={
-          Object {
-            "background": "red",
-          }
-        }
       >
         <input
           placeholder="Input title"
@@ -336,11 +306,6 @@ exports[`Storyshots Task archived 1`] = `
   </label>
   <div
     className="title"
-    style={
-      Object {
-        "background": "red",
-      }
-    }
   >
     <input
       placeholder="Input title"
@@ -376,11 +341,6 @@ exports[`Storyshots Task default 1`] = `
   </label>
   <div
     className="title"
-    style={
-      Object {
-        "background": "red",
-      }
-    }
   >
     <input
       placeholder="Input title"
@@ -424,11 +384,6 @@ exports[`Storyshots Task pinned 1`] = `
   </label>
   <div
     className="title"
-    style={
-      Object {
-        "background": "red",
-      }
-    }
   >
     <input
       placeholder="Input title"
@@ -482,11 +437,6 @@ exports[`Storyshots TaskList default 1`] = `
       </label>
       <div
         className="title"
-        style={
-          Object {
-            "background": "red",
-          }
-        }
       >
         <input
           placeholder="Input title"
@@ -527,11 +477,6 @@ exports[`Storyshots TaskList default 1`] = `
       </label>
       <div
         className="title"
-        style={
-          Object {
-            "background": "red",
-          }
-        }
       >
         <input
           placeholder="Input title"
@@ -572,11 +517,6 @@ exports[`Storyshots TaskList default 1`] = `
       </label>
       <div
         className="title"
-        style={
-          Object {
-            "background": "red",
-          }
-        }
       >
         <input
           placeholder="Input title"
@@ -617,11 +557,6 @@ exports[`Storyshots TaskList default 1`] = `
       </label>
       <div
         className="title"
-        style={
-          Object {
-            "background": "red",
-          }
-        }
       >
         <input
           placeholder="Input title"
@@ -662,11 +597,6 @@ exports[`Storyshots TaskList default 1`] = `
       </label>
       <div
         className="title"
-        style={
-          Object {
-            "background": "red",
-          }
-        }
       >
         <input
           placeholder="Input title"
@@ -707,11 +637,6 @@ exports[`Storyshots TaskList default 1`] = `
       </label>
       <div
         className="title"
-        style={
-          Object {
-            "background": "red",
-          }
-        }
       >
         <input
           placeholder="Input title"
@@ -934,11 +859,6 @@ exports[`Storyshots TaskList withPinnedTasks 1`] = `
       </label>
       <div
         className="title"
-        style={
-          Object {
-            "background": "red",
-          }
-        }
       >
         <input
           placeholder="Input title"
@@ -979,11 +899,6 @@ exports[`Storyshots TaskList withPinnedTasks 1`] = `
       </label>
       <div
         className="title"
-        style={
-          Object {
-            "background": "red",
-          }
-        }
       >
         <input
           placeholder="Input title"
@@ -1024,11 +939,6 @@ exports[`Storyshots TaskList withPinnedTasks 1`] = `
       </label>
       <div
         className="title"
-        style={
-          Object {
-            "background": "red",
-          }
-        }
       >
         <input
           placeholder="Input title"
@@ -1069,11 +979,6 @@ exports[`Storyshots TaskList withPinnedTasks 1`] = `
       </label>
       <div
         className="title"
-        style={
-          Object {
-            "background": "red",
-          }
-        }
       >
         <input
           placeholder="Input title"
@@ -1114,11 +1019,6 @@ exports[`Storyshots TaskList withPinnedTasks 1`] = `
       </label>
       <div
         className="title"
-        style={
-          Object {
-            "background": "red",
-          }
-        }
       >
         <input
           placeholder="Input title"
@@ -1159,11 +1059,6 @@ exports[`Storyshots TaskList withPinnedTasks 1`] = `
       </label>
       <div
         className="title"
-        style={
-          Object {
-            "background": "red",
-          }
-        }
       >
         <input
           placeholder="Input title"
